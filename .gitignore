@@ -1,3 +1,5 @@
 /random-topic/*
-
+__pycache__/
+.DS_Store
+venv/
 *.list
